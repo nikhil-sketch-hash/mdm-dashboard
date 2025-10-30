@@ -5,4 +5,5 @@ python-Levenshtein
 sqlalchemy
 pyyaml
 openpyxl
-sklearn.pipeline
+sklearn
+
