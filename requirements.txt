@@ -1,9 +1,8 @@
 streamlit
 pandas
+sqlalchemy
 fuzzywuzzy
 python-Levenshtein
-sqlalchemy
 pyyaml
 openpyxl
-sklearn
-
+altair
